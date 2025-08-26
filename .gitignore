@@ -43,3 +43,6 @@
 
 # Visual Studio
 .vs/
+
+# debug
+x64/
