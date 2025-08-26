@@ -18,5 +18,8 @@
     <ClCompile Include="Demo1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FuncionesSource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
